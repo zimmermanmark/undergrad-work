@@ -1,0 +1,13 @@
+name: NBA_App
+title: NBA_App
+username:
+account: mark-zimmerman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5798715
+bundleId: 5672379
+url: https://mark-zimmerman.shinyapps.io/NBA_App/
+when: 1647015124.47454
+lastSyncTime: 1647015124.47454
+asMultiple: FALSE
+asStatic: FALSE
